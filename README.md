@@ -5,8 +5,6 @@ Welcome to the Music Academy project! This project is aimed at providing an onli
 Dependencies:<br>
 1. NodeJS
 
-<h1>Install/Run this project:</h1>
-```bash
-npm install
-npm run dev
-```
+Install/Run this project:<br>
+1. npm install
+2. npm run dev
